@@ -1,4 +1,4 @@
-# 💼 Jasin Bagunu – Developer Portfolio
+# 💼 Jason Bagunu – Developer Portfolio
 
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a web developer.
@@ -6,7 +6,7 @@ This project showcases my skills, projects, and experience as a web developer.
 ---
 
 ## 📌 About Me
-Hi! I'm **Jasin Bagunu**, a passionate developer focused on building web-based systems and practical solutions.  
+Hi! I'm **Jason Bagunu**, a passionate developer focused on building web-based systems and practical solutions.  
 I enjoy working on backend systems, database-driven applications, and user-friendly interfaces.
 
 ---
